@@ -117,8 +117,16 @@
               "devServerTarget": "ProyectoFinal20152984:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "ProyectoFinal20152984"
+    }
+  },
+  "defaultProject": "ProyectoFinal20152984",
+  "cli": {
+    "analytics": false
+  }
 }

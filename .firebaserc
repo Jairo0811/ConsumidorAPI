@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "proyectofinal-angular-fbc50": {
+      "hosting": {
+        "ProyectoFinal20152984": [
+          "proyectofinal-angular-fbc50"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "proyectofinal-angular-fbc50"
+  }
+}
